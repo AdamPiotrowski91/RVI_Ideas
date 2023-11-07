@@ -7,6 +7,8 @@ assignees: AdamPiotrowski91
 
 ---
 
-**Description:** *(details of what and how should work)*
+**Description:**
+*(details of what and how should work)*
 
 **Additional Context & Ad Hoc Info:**
+*(Add any other context about the problem here.)*
