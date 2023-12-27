@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a BUG report
+about: Create a BUG report for RVI functionality
 title: "[BUG]: ___"
 labels: bug
 assignees: AdamPiotrowski91
@@ -13,10 +13,7 @@ assignees: AdamPiotrowski91
 **To Reproduce**
 *(Steps to reproduce the behavior)*
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. ...
 
 **Expected behavior**
 *(A clear and concise description of what you expected to happen.)*
@@ -31,7 +28,9 @@ assignees: AdamPiotrowski91
   - Mac
   - Windows
   - Linux
-- *Chrome version*: ___
+- *Browser*:
+  - *Type*: ___
+  - *Version*: ___
 
 **Additional context**
 *(Add any other context about the problem here.)*

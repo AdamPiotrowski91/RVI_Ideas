@@ -1,8 +1,8 @@
 ---
 name: Feature request
-about: Suggest a feature or enhancement
-title: "[ER]: ___"
-labels: enhancement
+about: Suggest a new feature for RVI
+title: "[FE]: ___"
+labels: fe
 assignees: AdamPiotrowski91
 
 ---
