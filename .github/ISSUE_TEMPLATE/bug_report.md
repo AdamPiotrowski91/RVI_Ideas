@@ -3,7 +3,7 @@ name: BUG Report
 about: Create a BUG report for RVI functionality
 title: "[BUG]: ___"
 labels: ["bug"]
-projects: AdamPiotrowski91/3
+projects: ["AdamPiotrowski91/3"]
 assignees: AdamPiotrowski91
 
 ---

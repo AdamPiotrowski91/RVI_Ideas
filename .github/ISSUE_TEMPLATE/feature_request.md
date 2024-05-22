@@ -3,7 +3,7 @@ name: Feature Request
 about: Suggest a new feature for RVI
 title: "[FE]: ___"
 labels: ["fe", "spike"]
-projects: AdamPiotrowski91/3
+projects: ["AdamPiotrowski91/3"]
 assignees: AdamPiotrowski91
 
 ---
