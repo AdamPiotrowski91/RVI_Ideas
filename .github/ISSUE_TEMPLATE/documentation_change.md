@@ -3,7 +3,6 @@ name: Documentation Change
 about: Suggest a change in Documentation
 title: "[DOC]: ___"
 labels: ["docs"]
-projects: ["AdamPiotrowski91/3"]
 assignees: AdamPiotrowski91
 
 ---
