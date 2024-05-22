@@ -1,17 +1,31 @@
 ---
-name: Enhancement request
+name: Enhancement Request
 about: Suggest an enhancement to existing RVI feature
 title: "[ER][<__existing_functionality_this_ER_is_for__>]: Enhancement"
-labels: er
+labels: ["er", "spike"]
+projects: AdamPiotrowski91/3
 assignees: AdamPiotrowski91
 
 ---
 
 **Current State:**
-*(details of what we currently have, if applicable to this ER)*
+
 
 **Description of New Functionality:**
-*(details of what and how should work)*
+
+
+**Expected Behavior**
+
+
+**Screenshots**
+
+N/A
+
 
 **Additional Context & Ad Hoc Info:**
-*(Add any other context about the request here.)*
+
+Requestor:
+
+List of Items to Implement:
+
+- [ ] ___

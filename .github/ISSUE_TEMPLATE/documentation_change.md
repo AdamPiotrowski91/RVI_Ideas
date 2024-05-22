@@ -1,21 +1,22 @@
 ---
-name: Documentation change
+name: Documentation Change
 about: Suggest a change in Documentation
 title: "[DOC]: ___"
-labels: documentation
+labels: ["docs"]
+projects: AdamPiotrowski91/3
 assignees: AdamPiotrowski91
 
 ---
 
-**Source:**
-*(Leave only applicable items.)*
+**Source:** *(Leave only applicable items.)*
 
 - GitHub README or NEWS
 - Confluence Page
 - Other: (___)
 
 **Description:**
-*(details of what and how should be changed)*
+
 
 **Additional Context & Ad Hoc Info:**
-*(Add any other context about the problem here.)*
+
+Requestor:

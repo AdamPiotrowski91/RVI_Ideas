@@ -1,14 +1,28 @@
 ---
-name: Feature request
+name: Feature Request
 about: Suggest a new feature for RVI
 title: "[FE]: ___"
-labels: fe
+labels: ["fe", "spike"]
+projects: AdamPiotrowski91/3
 assignees: AdamPiotrowski91
 
 ---
 
 **Description:**
-*(details of what and how should work)*
+
+
+**Expected Behavior**
+
+
+**Screenshots**
+
+N/A
+
 
 **Additional Context & Ad Hoc Info:**
-*(Add any other context about the problem here.)*
+
+Requestor:
+
+List of Items to Implement:
+
+- [ ] ___

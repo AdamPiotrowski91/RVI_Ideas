@@ -1,36 +1,39 @@
 ---
-name: Bug report
+name: BUG Report
 about: Create a BUG report for RVI functionality
 title: "[BUG]: ___"
-labels: bug
+labels: ["bug"]
+projects: AdamPiotrowski91/3
 assignees: AdamPiotrowski91
 
 ---
 
-**Describe the bug**
-*(A clear and concise description of what the bug is.)*
+**Description**
 
-**To Reproduce**
-*(Steps to reproduce the behavior)*
+
+**Steps To Reproduce**
 
 1. ...
 
-**Expected behavior**
-*(A clear and concise description of what you expected to happen.)*
+
+**Expected Behavior**
+
 
 **Screenshots**
-*(If applicable, add screenshots to help explain your problem.)*
 
-**Environment:**
-*(Leave only applicable items.)*
+
+**Environment:** *(Leave only applicable items.)*
 
 - *OS*:
   - Mac
   - Windows
   - Linux
 - *Browser*:
-  - *Type*: ___
-  - *Version*: ___
+  - *Type*:
+    - Chrome
+    - non-Chrome based on Chromium (___)
+
 
 **Additional context**
-*(Add any other context about the problem here.)*
+
+Requestor:
